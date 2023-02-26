@@ -1,0 +1,24 @@
+enter no.of cycles4
+enter no.of rounds:4
+[no.of cycles, no.of rounds, player1, player2]
+[1, 1, tail, head]
+[1, 2, tail, head]
+[1, 3, head, head]
+[1, 4, tail, tail]
+The output of cycle is : player 2 wins
+[2, 1, head, head]
+[2, 2, tail, head]
+[2, 3, head, tail]
+[2, 4, head, head]
+The output of cycle is : its a tie
+[3, 1, tail, tail]
+[3, 2, tail, tail]
+[3, 3, tail, head]
+[3, 4, head, head]
+The output of cycle is : player 2 wins
+[4, 1, tail, head]
+[4, 2, head, tail]
+[4, 3, tail, tail]
+[4, 4, tail, tail]
+The output of cycle is : its a tie
+Final result is : player 2 wins
